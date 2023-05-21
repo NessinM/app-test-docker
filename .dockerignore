@@ -1,0 +1,13 @@
+.dockerignore:
+node_modules
+.log
+.nuxt
+.nitro
+.cache
+.output
+dist
+.git
+README.md
+.gitignore
+Dockerfile
+npm-debug.log
